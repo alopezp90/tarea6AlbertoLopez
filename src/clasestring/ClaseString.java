@@ -14,6 +14,8 @@ public class ClaseString {
    
     public static void main(String[] args) {
         
+        System.out.println("Alberto Lopez Puertas");
+        
         String s = "iesmardealboran.com";
         
         // Tamaño de la cadena
